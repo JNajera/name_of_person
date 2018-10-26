@@ -1,8 +1,8 @@
 PATH
   remote: .
   specs:
-    name_of_person (0.1.0)
-      activesupport (>= 5.2.0)
+    name_of_person (1.0.1)
+      activesupport (>= 4.2.0)
 
 GEM
   remote: https://rubygems.org/
@@ -28,7 +28,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  activemodel (>= 5.2.0)
+  activemodel (>= 4.2.0)
   bundler (~> 1.15)
   byebug
   name_of_person!
